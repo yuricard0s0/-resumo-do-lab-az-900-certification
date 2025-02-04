@@ -1,7 +1,7 @@
 # -resumo-do-lab-az-900-certification
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO Formação Microsoft AZ-900 Certification
 
-1. Como criar conta gratuira na Azure
+1. Como criar conta gratuita na Azure
 2. Definir computação em nuvem
 4. Definir modelos de nuvem: Publico, Privado e Hibrido
 5. Descrever modelo baseado em consumo
