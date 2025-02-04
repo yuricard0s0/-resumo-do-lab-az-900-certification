@@ -7,4 +7,14 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 5. Descrever modelo baseado em consumo
 6. Comparar os modelos de preços de nuvem
 
-Links: https://learn.microsoft.com/training/modules/describe-cloud-compute
+Benefícios da Nuvem:
+1. Disponibilidade
+2. Escalabilidade
+3. Confiabilidade
+4. Previsibilidade
+5. Segurança e Governança
+6. Capacidade de gerenciamento
+
+Links:
+https://learn.microsoft.com/training/modules/describe-cloud-compute
+https://learn.microsoft.com/training/modules/describe-benefits-use-cloud-services
